@@ -4,7 +4,8 @@ A wsl parancs elhagyható, ha nem Linux Subsystemen futtatjuk az utasításokat.
 Én Windowson dolgoztam, nekem kellett.
 
 -   a 'laravel' könyvtárban a következő parancs futtatása:
-    -wsl ./vendor/bin/sail up
+
+    -   wsl ./vendor/bin/sail up
 
 -   miután a docker felinstallálta a dependencyket és felállt, futtassuk sorrendben a következő parancsokat dockeren belül (a sail app-ban!):
     -   php artisan migrate : az adatbázis inicializálása

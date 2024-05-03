@@ -1,0 +1,33 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.1.1",
+        "autoprefixer": "^10.4.19",
+        "eslint": "^9.1.1",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-vue": "^9.25.0",
+        "globals": "^15.1.0",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.38",
+        "prettier": "^3.2.5",
+        "sass": "^1.76.0",
+        "tailwindcss": "^3.4.3",
+        "vite": "^5.0"
+    },
+    "dependencies": {
+        "@mdi/font": "^7.4.47",
+        "@vitejs/plugin-vue": "^5.0.4",
+        "axios": "^1.6.8",
+        "prettier-plugin-tailwindcss": "^0.5.14",
+        "vite-plugin-eslint": "^1.8.1",
+        "vue": "^3.4.25",
+        "vue-loader": "^17.4.2",
+        "vue-router": "^4.3.2",
+        "vuetify": "^3.5.17"
+    }
+}
